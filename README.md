@@ -1,2 +1,3 @@
 # Rasa-Vs-Code-Debugging
-My solution to debugg the rasa framework in vs code
+My solution to debugg the rasa framework in vs code.
+You can debugg for example policies, classifiers, default actions,....
