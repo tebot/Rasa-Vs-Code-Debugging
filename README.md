@@ -3,7 +3,7 @@ My solution to debug the rasa framework in vs code.
 You can debug for example policies, classifiers, default actions,....
 
 # How To use:
-copy my_rasa_run.py in your folder where you have all the files to customize your bot.\\
+copy my_rasa_run.py in your folder where you have all the files to customize your bot.
 (This is the folder where also your config.yml, credentials.yml, domain.yml, ... is in).
 Add in the 7th line the path where you start your bot. (This is again the folder where also your config.yml, credentials.yml, domain.yml,... is in).
 
