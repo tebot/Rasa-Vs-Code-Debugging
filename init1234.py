@@ -4,7 +4,7 @@ import sys
 import time
 
 
-os.chdir('C:/Users/RobotKoop/OneDrive/Documents/Uni/Master/Masterarbeit/StudienBots/System3')
+os.chdir('<Path to this file>')
 os.system("conda activate")
 time.sleep(1)
 
