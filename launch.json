@@ -8,7 +8,7 @@
             "name": "Python: Current File",
             "type": "python",
             "request": "launch",
-            "program": "<Path to this file>/init1234.py",
+            "program": "<Path to this file>/my_rasa_run.py",
             "console": "integratedTerminal",
             "justMyCode": false,
             "stopOnEntry": true,
